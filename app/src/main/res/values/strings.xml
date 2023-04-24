@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">March_11_My</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="show_value">Show Value</string>
+    <string name="enter_password">Enter Password</string>
+</resources>
